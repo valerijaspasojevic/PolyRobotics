@@ -1,4 +1,4 @@
-# PolyRobotics
+# nasa-space-app-challenge
 NASA SPACE APPS CHALLENGE (Sensor YourSelf) - Arduino 
 
 In this task we used solar panel to indicate presence of the radiation, output voltage of the solar panel will increase if there is more sunlight falling on the panel. When we go outside where is more sunlight/radiation solar panel will activate the radiation alarm. 
